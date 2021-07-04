@@ -1,0 +1,1 @@
+document.writeln("<div style=\'width: 100%;overflow: hidden;display: flex;justify-content: center;align-items: center; \'><a href=\'http://www.zkmao.cc\' target=\'_blank\'><img src=\'https://p.pstatp.com/origin/pgc-image/143243a196e74947bfc03eb8b91035d6\' /></a></div>");
